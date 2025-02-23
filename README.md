@@ -20,9 +20,9 @@ Vanderbilt University and the Learning Agency Lab would like to thank the Bill &
 
 Evaluation
 
-Submissions are scored based on the quadratic weighted kappa, which measures the agreement between two outcomes. This metric typically varies from 0 (random agreement) to 1 (complete agreement). In the event that there is less agreement than expected by chance, the metric may go below 0.![Screenshot 2025-02-23 225458](https://github.com/user-attachments/assets/34e758c9-5451-4e93-bd1b-f645b1f4a920)
+Submissions are scored based on the quadratic weighted kappa, which measures the agreement between two outcomes. This metric typically varies from 0 (random agreement) to 1 (complete agreement). In the event that there is less agreement than expected by chance, the metric may go below 0.
 
 
 The quadratic weighted kappa is calculated as follows. First, an N x N histogram matrix O is constructed, such that Oi,j corresponds to the number of essay_ids i (actual) that received a predicted value j. An N-by-N matrix of weights, w, is calculated based on the difference between actual and predicted values:
 
-
+![Screenshot 2025-02-23 225458](https://github.com/user-attachments/assets/34e758c9-5451-4e93-bd1b-f645b1f4a920)

@@ -33,3 +33,5 @@ This is calculated as the outer product between the actual histogram vector of o
 From these three matrices, the quadratic weighted kappa is calculated as: 
 
 ![Screenshot 2025-02-23 225624](https://github.com/user-attachments/assets/fe2e7a8b-3afa-43e0-9998-5e4007cb3d11)
+
+![Без имени](https://github.com/user-attachments/assets/14d9edd2-3361-4026-b4cd-99b586f3fd79)
